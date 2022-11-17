@@ -42,7 +42,7 @@ panel_iframe:
   type: map
   keys:
     panel_name:
-      description: Name of the panel. Only allowed once.
+      description: Name of the panel. Only allowed once. Must be lowercase.
       required: true
       type: map
       keys:
